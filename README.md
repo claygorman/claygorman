@@ -1,8 +1,9 @@
 ### About me ✍️
-I am a software engineer and I am passionate about building things.
+Hey my name is Clay! I love building software and working with technology. 
+
 
 ### 🔭 I’m currently working on ...
-OpenPro - https://github.com/openpro-io/openpro/
+[OpenPro](https://github.com/openpro-io/openpro/) - Open Source Project Managment 
 
 <!--
 **claygorman/claygorman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
