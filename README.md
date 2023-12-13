@@ -1,4 +1,8 @@
-### Hi there 👋
+### About me ✍️
+I am a software engineer and I am passionate about building things.
+
+### 🔭 I’m currently working on ...
+OpenPro - https://github.com/openpro-io/openpro/
 
 <!--
 **claygorman/claygorman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
