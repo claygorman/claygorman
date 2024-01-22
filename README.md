@@ -1,6 +1,8 @@
 ### About me ✍️
 Hey my name is Clay! I love building software and working with technology. 
 
+[Linkedin](https://www.linkedin.com/in/claygorman/)
+
 
 ### 🔭 I’m currently working on ...
 [OpenPro](https://github.com/openpro-io/openpro/) - Open Source Project Managment 
