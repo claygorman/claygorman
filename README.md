@@ -7,7 +7,7 @@ Hey my name is Clay! I love building software and working with technology.
 ### 🔭 I’m currently working on ...
 [OpenPro](https://github.com/openpro-io/openpro/) - Open Source Project Managment 
 
-[TheReflectiveEngineer](https://thereflectiveengineer.com/) - A site of various philiohphies and related
+[TheReflectiveEngineer](https://github.com/claygorman/the-reflective-engineer) - A site of various philiohphies and related
 
 [OauthD](https://oauthd.me) - A site I made for managing my keycloak server for personal projects
 <!--
